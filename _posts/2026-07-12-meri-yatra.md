@@ -1,9 +1,11 @@
 ---
-title: "Guwahati Zoo Ki Yaadgaar Yatra – 25 June 2026
+layout: post
+title: "Guwahati Zoo Ki Yaadgaar Yatra – 25 June 2026"
 date: 2026-07-12
+categories: travel
 ---
 
-Aaj maine Guwahati ki yatra ki. Bahut sundar anubhav raha.
+Guwahati Zoo Ki Yaadgaar Yatra – 25 June 2026
 
 25 June 2026 ko mujhe Guwahati Zoo ghumne ka mauka mila. Yeh din mere liye bahut hi yaadgaar raha. Guwahati Zoo, jise Assam State Zoo bhi kaha jata hai, Assam ke sabse sundar aur prasiddh paryatan sthalon mein se ek hai. Har saal yahan desh ke alag-alag hisson se hazaron tourist ghumne aate hain.
 
